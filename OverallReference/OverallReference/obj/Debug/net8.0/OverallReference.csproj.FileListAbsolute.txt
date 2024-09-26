@@ -1,0 +1,14 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\bin\Debug\net8.0\OverallReference.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\bin\Debug\net8.0\OverallReference.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\bin\Debug\net8.0\OverallReference.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\bin\Debug\net8.0\OverallReference.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\bin\Debug\net8.0\OverallReference.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\refint\OverallReference.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\ref\OverallReference.dll
