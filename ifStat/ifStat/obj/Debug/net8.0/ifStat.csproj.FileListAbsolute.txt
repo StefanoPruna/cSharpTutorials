@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\bin\Debug\net8.0\ifStat.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\bin\Debug\net8.0\ifStat.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\bin\Debug\net8.0\ifStat.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\bin\Debug\net8.0\ifStat.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\bin\Debug\net8.0\ifStat.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\refint\ifStat.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ifStat.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ifStat\ifStat\obj\Debug\net8.0\ref\ifStat.dll

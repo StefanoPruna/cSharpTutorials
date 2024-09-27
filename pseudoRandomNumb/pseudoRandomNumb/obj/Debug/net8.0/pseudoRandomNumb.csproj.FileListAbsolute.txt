@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\bin\Debug\net8.0\pseudoRandomNumb.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\bin\Debug\net8.0\pseudoRandomNumb.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\bin\Debug\net8.0\pseudoRandomNumb.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\bin\Debug\net8.0\pseudoRandomNumb.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\bin\Debug\net8.0\pseudoRandomNumb.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\refint\pseudoRandomNumb.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\pseudoRandomNumb.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\pseudoRandomNumb\pseudoRandomNumb\obj\Debug\net8.0\ref\pseudoRandomNumb.dll

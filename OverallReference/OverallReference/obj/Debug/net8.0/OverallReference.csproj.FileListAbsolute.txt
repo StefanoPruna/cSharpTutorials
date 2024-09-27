@@ -12,3 +12,4 @@ C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\o
 C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.pdb
 C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.genruntimeconfig.cache
 C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\ref\OverallReference.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\OverallReference\OverallReference\obj\Debug\net8.0\OverallReference.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\refint\stringMethods.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\stringMethods\stringMethods\obj\Debug\net8.0\ref\stringMethods.dll

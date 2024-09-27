@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\bin\Debug\net8.0\AcceptInput.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\bin\Debug\net8.0\AcceptInput.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\bin\Debug\net8.0\AcceptInput.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\bin\Debug\net8.0\AcceptInput.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\bin\Debug\net8.0\AcceptInput.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\refint\AcceptInput.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\AcceptInput.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\AcceptInput\AcceptInput\obj\Debug\net8.0\ref\AcceptInput.dll

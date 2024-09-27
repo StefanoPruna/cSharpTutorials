@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\bin\Debug\net8.0\switchStat.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\bin\Debug\net8.0\switchStat.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\bin\Debug\net8.0\switchStat.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\bin\Debug\net8.0\switchStat.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\bin\Debug\net8.0\switchStat.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\refint\switchStat.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\switchStat.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\switchStat\switchStat\obj\Debug\net8.0\ref\switchStat.dll
