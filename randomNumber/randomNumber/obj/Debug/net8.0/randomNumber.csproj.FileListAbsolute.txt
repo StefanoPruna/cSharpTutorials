@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\bin\Debug\net8.0\randomNumber.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\bin\Debug\net8.0\randomNumber.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\bin\Debug\net8.0\randomNumber.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\bin\Debug\net8.0\randomNumber.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\bin\Debug\net8.0\randomNumber.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\refint\randomNumber.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\randomNumber.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\randomNumber\randomNumber\obj\Debug\net8.0\ref\randomNumber.dll
