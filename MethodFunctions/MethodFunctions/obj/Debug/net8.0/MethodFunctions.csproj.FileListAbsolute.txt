@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\bin\Debug\net8.0\MethodFunctions.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\bin\Debug\net8.0\MethodFunctions.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\bin\Debug\net8.0\MethodFunctions.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\bin\Debug\net8.0\MethodFunctions.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\bin\Debug\net8.0\MethodFunctions.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\refint\MethodFunctions.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\MethodFunctions.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\MethodFunctions\MethodFunctions\obj\Debug\net8.0\ref\MethodFunctions.dll

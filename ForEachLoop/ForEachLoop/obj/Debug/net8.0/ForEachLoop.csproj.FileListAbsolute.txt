@@ -1,0 +1,15 @@
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\bin\Debug\net8.0\ForEachLoop.exe
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\bin\Debug\net8.0\ForEachLoop.deps.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\bin\Debug\net8.0\ForEachLoop.runtimeconfig.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\bin\Debug\net8.0\ForEachLoop.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\bin\Debug\net8.0\ForEachLoop.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.AssemblyInfo.cs
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.sourcelink.json
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\refint\ForEachLoop.dll
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.pdb
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ForEachLoop.genruntimeconfig.cache
+C:\Users\makem\Documents\GitHub\C#\Tutorials\ForEachLoop\ForEachLoop\obj\Debug\net8.0\ref\ForEachLoop.dll
